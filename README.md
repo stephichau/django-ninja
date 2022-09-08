@@ -28,7 +28,7 @@ pip3 install -r requirements.txt
 |   - settings.py
 |   - urls.py
 |   - wsgi.py
-| - manage.py
+- manage.py
 ```
 
 ## Running the app
